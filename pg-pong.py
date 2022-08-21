@@ -8,7 +8,7 @@ import time
 
 
 # hyperparameters
-H = 600 # number `of hidden layer neurons
+H = 200 # number `of hidden layer neurons
 batch_size = 10 # every how many episodes to do a param update?
 learning_rate = 1e-4
 gamma = 0.99 # discount factor for reward
